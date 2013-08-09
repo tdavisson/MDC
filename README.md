@@ -1,4 +1,4 @@
-MDC
+Mobile Data Computer stuff
 ===
 
-Mobile Data Computers
+**note**: something is up with `.exp` files in GitHub, no big deal...adding a .txt version. Just rename it after cloning/etc.
